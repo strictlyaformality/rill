@@ -1,0 +1,26 @@
+{
+  "name": "rill",
+  "version": "1.0.0",
+  "description": "trying out some streams in node",
+  "main": "csvlysis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonny",
+  "license": "ISC",
+  "devDependencies": {
+    "yargs": "^6.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strictlyaformality/rill.git"
+  },
+  "keywords": [
+    "node",
+    "stream"
+  ],
+  "bugs": {
+    "url": "https://github.com/strictlyaformality/rill/issues"
+  },
+  "homepage": "https://github.com/strictlyaformality/rill#readme"
+}
